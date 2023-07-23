@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.heading {
+    font-family: "Roboto";
+    font-size: 35px;
+    color: #1e2626;
+    font-weight: bold;
+}
+
+.buttonDetails {
+    background-color: #3d403f;
+    color: #ffffff;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 20px;
+    border-width: 0;
+}
+
+.operatorsDetails {
+    background-color: #fcb023;
+    color: #0d0d0d;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 20px;
+    border-width: 0;
+}
+
+.equaldetails {
+    background-color: #364732;
+    color: #ffffff;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 20px;
+    border-width: 0;
+}
+
+.cancelDetails {
+    background-color: #fa3c07;
+    color: #ffffff;
+    padding: 15px 30px;
+    border-width: 0;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 20px
+}
+
+
+.cellDetails {
+    font-size: 35px;
+}
+
+
+.bg-container {
+    margin-top: 100px;
+    align-items: center;
+}
+
+.cont {
+    margin-top: 40px;
+}
